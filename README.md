@@ -5,7 +5,7 @@ Paper Link:
 1. Photometry and optogenetics boxes: https://github.com/xzhang03/Square_wave_box
 2. Simultaneous photometry + optogenetics box: https://github.com/xzhang03/Opto-photometry-box
 3. Photometry demodulation box: https://github.com/xzhang03/Photometry-demod-box
-4. Photometry data collectoin (modified from Arthur Sugden's work): https://github.com/xzhang03/NidaqGUI
+4. Photometry data collection (modified from Arthur Sugden's work): https://github.com/xzhang03/NidaqGUI
 
 ## Analysis
 1. Photometry analysis: https://github.com/xzhang03/Photometry_analysis
