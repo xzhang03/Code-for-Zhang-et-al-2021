@@ -1,5 +1,5 @@
 # Directory for analysis code and designs used in Zhang et al. 2021
-Paper Link: 
+Paper Link: https://www.nature.com/articles/s41586-021-03845-0
 
 ## Designs
 1. Photometry and optogenetics boxes: https://github.com/xzhang03/Square_wave_box
